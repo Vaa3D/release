@@ -5,7 +5,7 @@ The newly developed Vaa3D-x version has update the development environment from 
 
 New Vaa3D-x Version
 * Full version with plugins: Vaa3D-x.1.1.1 ( https://github.com/Vaa3D/release/releases/tag/v1.1.1 )
-* Full version with plugins: Vaa3D-x.1.1.0 ( https://github.com/Vaa3D/release/releases/tag/V1.1.0 )
+* Full version with plugins: Vaa3D-x.1.1.0 ( https://github.com/Vaa3D/release/releases/tag/v1.1.0 )
 
 Previous Vaa3D Version
 * Full version with plugins: v4.001 ( https://github.com/Vaa3D/release/releases/tag/V4.001 )
