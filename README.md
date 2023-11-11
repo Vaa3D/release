@@ -4,8 +4,8 @@ Binary releases of Vaa3D and related software components. Please visit the Relea
 The newly developed Vaa3D-x version has update the development environment from Qt4 to Qt6 and has currently obsolete Visual Studio 2013 compiler.Meanwhile the new version has also provided many new features.
 
 New Vaa3D-x Version
+* Full version with plugins: Vaa3D-x.1.1.4 ( https://github.com/Vaa3D/release/releases/tag/v1.1.4 )
 * Full version with plugins: Vaa3D-x.1.1.2 ( https://github.com/Vaa3D/release/releases/tag/v1.1.2 )
-* Full version with plugins: Vaa3D-x.1.1.0 ( https://github.com/Vaa3D/release/releases/tag/v1.1.0 )
 
 Previous Vaa3D Version
 * Full version with plugins: v4.001 ( https://github.com/Vaa3D/release/releases/tag/V4.001 )
